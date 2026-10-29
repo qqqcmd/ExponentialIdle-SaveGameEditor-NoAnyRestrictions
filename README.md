@@ -126,10 +126,6 @@ I was curious how the game worked internally. So I decided to make this app a by
 
 #### Why do you require an in-game purchase to use this app?
 
-Initially, I didn't have this in place. However, I realized that this app can give you the advantages of one of the in-game purchases (Permanent Ad Reward). This means the app could lessen the game creator's monetary support. So, I either had to kill this project or implement the purchase requirement.
-
-#### This app is open source, but why is part of it obfuscated? What are you hiding?
-
 No,I think it doesn't have any restrictions.
 
 #### Why did you make this open-source at all?
