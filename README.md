@@ -130,11 +130,7 @@ Initially, I didn't have this in place. However, I realized that this app can gi
 
 #### This app is open source, but why is part of it obfuscated? What are you hiding?
 
-The obfuscated file is `crypto.js`. This is the file that handles the decryption, encryption, and in-game purchase verification.
-
-Yes, JavaScript obfuscation is reversible. Still, I believe that anyone who is successful at deobfuscation could decrypt the save games themselves anyway.
-
-Anyone wishing to have a closer look at this file for security purposes can contact me.
+No,I think it doesn't have any restrictions.
 
 #### Why did you make this open-source at all?
 
